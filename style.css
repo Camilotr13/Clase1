@@ -1,0 +1,18 @@
+/* body {
+    background-color:azure;
+} */
+
+
+.nav {
+    display: flex;
+    justify-content: space-around;   
+}
+
+.enlace {
+    text-decoration: none;
+}
+
+.imagen {
+    width: 10rem;
+    margin-top: 3rem;
+}
